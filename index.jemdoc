@@ -1,104 +1,38 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-==Manyuan Zhang
+==Ziyuan Luo
 
 ~~~
-{}{img_left}{bioo.jpg}{alt text}{160}{160}{}
-Ph.D. candidate\n [http://mmlab.ie.cuhk.edu.hk/ Multimedia Laboratory]\n[http://www.ee.cuhk.edu.hk/en-gb/ Department of Electornic Engineering ] \n[https://www.cuhk.edu.hk/chinese/index.html The Chinese University of Hong Kong]\n
-Office: SHB 304, CUHK, Hong Kong S.A.R., China \n
-Email: zhangmanyuan@link.cuhk.edu.hk \n
-[https://scholar.google.com/citations?hl=zh-CN&user=ZYmcm0EAAAAJ  Scholar] [cv.pdf CV] [https://github.com/manyuan97 Github] [https://www.linkedin.com/in/manyuan-zhang-32997814b/?originalSubdomain=cn Linkin]
+{}{img_left}{bio.jpg}{alt text}{160}{160}{}
+Ph.D. student\n
+[https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science]\n
+[https://gs.hkbu.edu.hk/sc/ Hong Kong Baptist University]\n
+Kowloon Tong, Hong Kong S.A.R., China\n
+Email: ziyuanluo@life.hkbu.edu.hk\n
+[https://scholar.google.com/citations?user=kBFXUlwAAAAJ  \[Google Scholar\]]\&nbsp;\&nbsp;\&nbsp;[https://orcid.org/0000-0003-1580-9809 \[ORCID\]]
 ~~~
 
 == About me
+I am currently a Ph.D. student at the [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science] of [https://gs.hkbu.edu.hk/sc/ Hong Kong Baptist University]. I am supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/ Dr. WAN, Renjie]. I obtained my bachelor's degree and master's degree in Communication Engineering from the School of Information and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2019 and 2022, respectively. I am also a research intern at NVIDIA AI Technology Center since Sep 2022.\n
 
-I am currently a Ph.D. candidate at [http://mmlab.ie.cuhk.edu.hk/ Multimedia Lab (MMLab)], the Chinese University of Hong Kong. I am supervised by [https://www.ee.cuhk.edu.hk/~hsli/ Prof.Hongsheng Li] and  [https://www.ee.cuhk.edu.hk/~xgwang/ Prof.Xiaogang Wang]. I received my bachelor's degree in Network Engineering from the School of Information  and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2019. Now, I am also a Researcher  at [https://www.sensetime.com/cn/ SenseTime X-Lab], working closely with  [http://liuyu.us/ Yu Liu] and [https://scholar.google.com/citations?user=Bd3v08QAAAAJ&hl=zh-CN/ Guanglu Song].\n
-
-My research interests include deep learning and its applications on face recognition and video understanding.
+My research interests include Neural Radiance Fields (NeRF), adversarial attack and defence, and AI security.
 
 == News
-- \[2023-07\] Two paper accepted to ICCV2023.
-- \[2023-07\] I pass the PhD candidate test. 
-- \[2023-05\] I am invited to be a reviewer for NIPS2023
-- \[2023-02\] One paper accepted to CVPR 2023.
-- \[2022-12\] I am invited to be a reviewer for CVPR2023 and ICCV2023.
-- \[2022-07\] One paper accepted to ECCV 2022.
-- \[2022-04\] I am invited to be a reviewer for ECCV2022 and NIPS2022.
-- \[2022-04\] I am invited to '智东西' to give a talk about imitation learning in automatic driving.
-- \[2021-10\] We win three championships of [https://ibug.doc.ic.ac.uk/resources/masked-face-recognition-challenge-workshop-iccv-21/ ICCV 2021 Masked Face Recognition Challenge] on [http://iccv21-mfr.com/ glink360k ] track, [http://iccv21-mfr.com/ unconstrained ] track and [https://competitions.codalab.org/competitions/32478 Webface260M] track. Code and solutions will be released very soon.
-- \[2021-07\] We release  [https://github.com/opendilab/DI-drive/ DI-drive], the decision intelligence platform for autonomous driving simulation. I am responsible for the imitation learning part.
-- \[2021-07\] One paper accepted to ICCV 2021.
-- \[2021-05\] We win the championship of [https://pages.nist.gov/frvt/reportcards/11/sensetime_005.html NIST FRVT 1:1].
-- \[2020-12\] We win the championship of [https://pages.nist.gov/frvt/reportcards/1N/sensetime_005.pdf NIST FRVT 1:N].
-- \[2020-06\] We win 2 championships of [http://activity-net.org/ ActivityNet] on the [http://activity-net.org/challenges/2020/tasks/guest_ava.html/ Spatio-temporal Action Localization (AVA)] track and the [http://activity-net.org/challenges/2020/tasks/guest_kinetics.html/ Trimmed Activity Recognition (Kinetics 700)] track. 
-- \[2020-06\] One paper accepted to ECCV 2020.
-- \[2020-04\] We release the [https://github.com/Sense-X/X-Temporal/ X-Temporal] for easily implement SOTA video understanding methods with PyTorch on multiple machines and GPUs.
-- \[2019-10\] One paper accepted to ICCV 2019 LFR workshop.
-- \[2019-10\] We win the championship of [http://moments.csail.mit.edu/challenge_iccv_2019.html ICCV19 Multi-Moments in Time (MIT) Challenge].
-- \[2019-10\] We win the championship of [https://ibug.doc.ic.ac.uk/resources/lightweight-face-recognition-challenge-workshop/ ICCV19 Lightweight Face Recognition Challenge].
+- \[2023-07\] One paper accepted to /ICCV 2023/.
 
 === Recent Publications 
-\*equal contribition
+\*equal contribution
+- CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields\n
+  *Ziyuan Luo*, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan\n
+  /2023  International Conference on Computer Vision (ICCV, CCF-A)/\n
+  [https://luo-ziyuan.github.io/ Paper (Coming soon)]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/copyrnerf/ Project page]
 
+- A Vector and Geometry Interpretation of Basic Probability Assignment in Dempster‐Shafer Theory\n
+  *Ziyuan Luo* and Yong Deng\n
+  /2020  International Journal of Intelligent Systems/\n
+  [https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22231 Paper]
 
-- Decoupled DETR: Spatially Disentangling Localization and Classification for Improved End-to-End Object Detection \n
-  *Manyuan Zhang*, Guanglu Song, Yu Liu, Hongsheng Li \n
-  2023  International Conference on Computer Vision (ICCV)
-
-- [https://arxiv.org/abs/2303.08340 VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation] \n
-  Xiaoyu Shi, Zhaoyang Huang, Weikang Bian, Dasong Li, *Manyuan Zhang*, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li \n
-  2023  International Conference on Computer Vision (ICCV)
-
-- [https://arxiv.org/abs/2303.01237 FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation] \n
-  Xiaoyu Shi, Zhaoyang Huang, Dasong Li, *Manyuan Zhang*, Ka Chun Cheung, Simon See, Hongwei Qin, Jifeng Dai, Hongsheng Li \n
-  2022 The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR) 
-- [https://arxiv.org/abs/2208.13600/ Towards Robust Face Recognition with Comprehensive Search] \n
-  *Manyuan Zhang*, Guanglu Song, Yu Liu, Hongsheng Li \n
-  2022 European Conference on Computer Vision (ECCV)
-- [https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Switchable_K-Class_Hyperplanes_for_Noise-Robust_Representation_Learning_ICCV_2021_paper.pdf/ Switchable K-class Hyperplanes for Noise-robust Representation Learning] \n 
-  Boxiao Liu, Guanglu Song, *Manyuan Zhang*, Haihang You, Yu Liu \n
-  2021 International Conference on Computer Vision (ICCV)
-- [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550001.pdf/ Discriminability Distillation in Group Representation Learning] \n
-  *Manyuan Zhang*, Guanglu Song, Hang Zhou, Yu Liu \n
-  2020 European Conference on Computer Vision (ECCV)
-- [https://openaccess.thecvf.com/content_ICCVW_2019/papers/LSR/Liu_Towards_Flops-Constrained_Face_Recognition_ICCVW_2019_paper.pdf/ Towards Flops-constrained Face Recognition] \n
-  Yu Liu\*, Guanglu Song\*, *Manyuan Zhang\**, Jihao Liu\*, Yucong Zhou, Junjie Yan \n
-  2019 ICCV Lightweight Face Recognition Challenge & Workshop
-- [https://ieeexplore.ieee.org/document/8486609 Tensor sensing for RF tomographic imaging] \n
-  Tao Deng, Feng Qian, Xiao-Yang Liu, *Manyuan Zhang*, Anwar Walid \n 
-  2018 IEEE International Conference on Multimedia and Expo (ICME) 
-- [https://arxiv.org/pdf/1803.10943.pdf/ Privacy-preserving sensory data recovery] \n
-  Cai Chen, *Manyuan Zhang*, Huanzhi Zhang, Zhenyun Huang, Yong Li \n
-  2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications \n
-
-
-=== Challenge Awards
-- Won the *1th* place in CVPR21 Masked Face Recognition Challenge ([https://www.face-benchmark.org/challenge.html/ WebFace260M], [https://insightface.ai/mfr21/ InsightFace Unconstrained] and 
-[https://insightface.ai/mfr21 InsightFace glint360k] track)
-- Won the *1th* place in CVPR20 ActivityNet Challenge ([http://activity-net.org/challenges/2020/tasks/guest_kinetics.html/ Kinetics700] track and  [https://www.youtube.com/watch?v=zJPEmG3LCH4&list=PLw6H4u-XW8siSxqdRVcD5aBn3OTuA7M7x/ AVA track])
-- Won the *1th* place in NIST FRVT held by US government ([https://github.com/usnistgov/frvt/blob/nist-pages/reports/11/frvt_11_report_2022_07_29.pdf 1:1 Verification] and [https://github.com/usnistgov/frvt/blob/nist-pages/reports/1N/frvt_1N_report_2022_07_28.pdf/ 1:N Identification])
-- Won the *1th* place in [http://moments.csail.mit.edu/results2019.html/ ICCV19 Multi-Moments in Time (MIT) Challenge]
-- Won the *1th* place in [https://insightface.ai/lfr19/ ICCV19 Lightweight Face Recognition Challenge]
-
-
-=== Technical Report 
-- [Towards Large-scale Masked Face Recognition] (Top-1 Solution) \n
-  *Manyuan Zhang*, Bingqi Ma, Guanglu Song, Yunxiao Wang, Hongsheng Li, Yu Liu
-- [https://arxiv.org/abs/2006.09116/ 1st place solution for AVA-Kinetics Crossover in AcitivityNet Challenge 2020]  (Top-1 Solution) \n
-  Siyu Chen, Junting Pan, Guanglu Song, *Manyuan Zhang*, Hao Shao, Ziyi Lin, Jing Shao, Hongsheng Li, Yu Liu 
-- [https://arxiv.org/abs/2003.05837/ Top-1 Solution of Multi-Moments in Time Challenge 2019]  (Top-1 Solution) \n
-  *Manyuan Zhang*, Hao Shao, Guanglu Song, Yu Liu, Junjie Yan
-
-=== Selected Projects
-- [https://github.com/Sense-X/X-Temporal/ X-Xemporal] \n
-  Easily implement SOTA video understanding methods with PyTorch on multiple machines and GPU.
-- [https://github.com/opendilab/DI-drive/ DI-drive] \n 
-  Decision Intelligence Platform for Autonomous Driving simulation.
-
-=== Working Experience
-- Research intern at [https://www.sensetime.com/cn/ SenseTime Research] (since Feb 2019) \n
-  Working on large-scale face recognition and video understanding with [http://liuyu.us/ Yu Liu] and [https://scholar.google.com/citations?user=Bd3v08QAAAAJ&hl=zh-CN/ Guanglu Song]
-- Research intern at [https://en.megvii.com/megvii_research/ Megvii Research] (from Aug 2018 to Feb 2019) \n
-  Working on style transfer with [http://www.liushuaicheng.org/ Shuaicheng Liu]. \n
-- Research intern at [https://ailab.bytedance.com/ Bytedance AI Lab] (from May 2018 to Aug 2018) \n
-  Working on large-scale face recognition.
+- A Matrix Method of Basic Belief Assignment's Negation in Dempster–Shafer Theory\n
+  *Ziyuan Luo* and Yong Deng\n
+  /2020 IEEE Transactions on Fuzzy Systems/\n
+  [https://ieeexplore.ieee.org/abstract/document/8767928 Paper]
 
