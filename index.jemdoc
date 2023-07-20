@@ -1,18 +1,18 @@
-# jemdoc: menu{MENU}{}, nofooter
+# jemdoc: menu{MENU}{}, notime
 ==Ziyuan Luo
 
 ~~~
 {}{img_left}{bio.jpg}{alt text}{160}{160}{}
 Ph.D. student\n
 [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science]\n
-[https://gs.hkbu.edu.hk/sc/ Hong Kong Baptist University]\n
+[https://www.hkbu.edu.hk/ Hong Kong Baptist University]\n
 Kowloon Tong, Hong Kong S.A.R., China\n
 Email: ziyuanluo@life.hkbu.edu.hk\n
 [https://scholar.google.com/citations?user=kBFXUlwAAAAJ  \[Google Scholar\]]\&nbsp;\&nbsp;\&nbsp;[https://orcid.org/0000-0003-1580-9809 \[ORCID\]]
 ~~~
 
 == Short Bio
-I am currently a Ph.D. student at the [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science] of [https://gs.hkbu.edu.hk/sc/ Hong Kong Baptist University]. I am supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/ Dr. WAN, Renjie]. I obtained my bachelor's degree and master's degree in Communication Engineering from the School of Information and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2019 and 2022, respectively. I am also a research intern at NVIDIA AI Technology Center since Sep 2022.\n
+I am currently a Ph.D. student at the [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science] of [https://www.hkbu.edu.hk/ Hong Kong Baptist University]. I am supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/ Dr. WAN, Renjie]. I obtained my bachelor's degree and master's degree in Communication Engineering from the School of Information and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)] in 2019 and 2022, respectively. I am also a research intern at NVIDIA AI Technology Center since Sep 2022.\n
 
 My research interests include Neural Radiance Fields (NeRF), adversarial attack and defence, and AI security.
 
