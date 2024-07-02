@@ -257,8 +257,8 @@ def standardconf():
   </div>
 
   [lastupdated]
-  Last update: |, by @ziyluo.<br />
-  
+  Page generated |, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+
   [sourcelink]
   (<a href="|">source</a>)
 
@@ -1227,7 +1227,7 @@ def procfile(f):
     fwtitle = False
     css = []
     js = []
-    title = "@ziyluo"
+    title = None
     while pc(f, False) == '#':
         l = f.inf.readline().decode(encoding='utf-8')
         f.linenum += 1

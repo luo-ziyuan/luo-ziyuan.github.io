@@ -1,21 +1,21 @@
-# jemdoc: menu{MENU}{}, notime
+# jemdoc: menu{MENU}{}, notime, title{Ziyuan Luo @ HKBU}
 ==Ziyuan Luo
 
 ~~~
 {}{img_left}{bio.jpg}{alt text}{160}{160}{}
 Ph.D. Student\n
-[https://www.comp.hkbu.edu.hk/v1/"target="_blank Department of Computer Science]\n
-[https://www.hkbu.edu.hk/"target="_blank Hong Kong Baptist University]\n
+[https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science]\n
+[https://www.hkbu.edu.hk/ Hong Kong Baptist University]\n
 Kowloon Tong, Kowloon, Hong Kong\n
 Email: ziyuanluo@life.hkbu.edu.hk\n
-[https://scholar.google.com/citations?user=kBFXUlwAAAAJ&sortby=pubdate"target="_blank  \[Google Scholar\]]
+[https://scholar.google.com/citations?user=kBFXUlwAAAAJ&sortby=pubdate  \[Google Scholar\]]
 ~~~
 
 == Short Bio
-I am currently a Ph.D. student at the [https://www.comp.hkbu.edu.hk/v1/"target="_blank Department of Computer Science] of
-[https://www.hkbu.edu.hk/"target="_blank Hong Kong Baptist University], supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/"target="_blank Dr. WAN, Renjie].
+I am currently a Ph.D. student at the [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science] of
+[https://www.hkbu.edu.hk/ Hong Kong Baptist University], supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/ Dr. WAN, Renjie].
 I obtained my bachelor's degree and master's degree in Communication Engineering from
-the School of Information and Communication Engineering at [https://www.uestc.edu.cn/"target="_blank University of Electronic Science and Technology of China (UESTC)]
+the School of Information and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)]
 in 2019 and 2022, respectively. I am also a research intern at NVIDIA AI Technology Center since Sep 2022.\n
 
 My research interests include neural radiance fields, implicit neural representations, and digital watermarking.
@@ -45,4 +45,12 @@ My research interests include neural radiance fields, implicit neural representa
   *Ziyuan Luo* and Yong Deng\n
   /IEEE Transactions on Fuzzy Systems/, 2020\n
   [https://ieeexplore.ieee.org/abstract/document/8767928 Paper]
+
+== Honors & Awards \<a id=\"publications\"\>\</a\>
+- Best Research Performance Award, Department of Computer Science of HKBU (2024)
+- [https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=71229 UESTC Outstanding Students], UESTC (2018)
+- National Scholarship, Ministry of Education (2016, 2017, 2020, 2021)
+- Excellent Graduates of Sichuan Province, Education Department of Sichuan Province (2018, 2022)
+- Goodix Scholarship, Goodix Technology, Inc (2018, 2020)
+- Tang Lixin Scholarship, Tang Lixin Education Development Fund (2016)
 
