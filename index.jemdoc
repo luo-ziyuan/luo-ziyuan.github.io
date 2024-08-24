@@ -26,17 +26,17 @@ My research interests include neural radiance fields, implicit neural representa
 \* indicates equal contribution.
 - Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems\n
   *Ziyuan Luo*, Boxin Shi, Haoliang Li, Renjie Wan\n
-  In /European Conference on Computer Vision (ECCV)/, Milan, 2024\n
+  In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
   [https://arxiv.org/abs/2407.09352 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/Imaging-Interiors/ \[Project Page\]]
 
 - Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model\n
   Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
-  In /European Conference on Computer Vision (ECCV)/, Milan, 2024\n
+  In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
   [https://arxiv.org/abs/2407.07735 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://qsong2001.github.io/NeRFProtector/ \[Project Page\]]
 
 - CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields\n
   *Ziyuan Luo*, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan\n
-  In /International Conference on Computer Vision (ICCV)/, Paris, 2023\n
+  In /International Conference on Computer Vision (*ICCV*)/, Paris, 2023\n
   [https://arxiv.org/abs/2307.11526 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/copyrnerf/ \[Project Page\]]\&nbsp;\&nbsp;\&nbsp;[https://www.bilibili.com/video/BV1Qm421n7KW/?vd_source=55dd58d4363a6a6ba557db185032860b \[VALSE Video\]]\&nbsp;\&nbsp;\&nbsp;[https://huggingface.co/papers?date=2023-07-24 \[Hugging Face Daily Papers\]]
 
 - A Vector and Geometry Interpretation of Basic Probability Assignment in Dempster‐Shafer Theory\n
@@ -51,7 +51,7 @@ My research interests include neural radiance fields, implicit neural representa
 
 - CogSimulator: A Model for Simulating User Cognition & Behavior with Minimal Data for Tailored Cognitive Enhancement\n
   Weizhen Bian, Yubo Zhou, Yuanhang Luo, Ming Mo, Siyan Liu, Yikai Gong, *Ziyuan Luo*, Aobo Wang, Renjie Wan\n
-  In /Proceedings of the Annual Meeting of the Cognitive Science Society/, 2024\n
+  In /Proceedings of the Annual Meeting of the Cognitive Science Society (*CogSci*)/, 2024\n
   [https://escholarship.org/uc/item/4tp184s9 \[Paper\]]
 
 == Honors & Awards \<a id=\"honors&awards\"\>\</a\>
