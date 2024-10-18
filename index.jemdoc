@@ -24,6 +24,10 @@ My research interests include neural radiance fields, implicit neural representa
 
 == Recent Publications \<a id=\"publications\"\>\</a\>
 \* indicates equal contribution.
+- Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images
+  Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
+  In /Advances in Neural Information Processing Systems (*NeurIPS*)/, Vancouver, 2024\n
+
 - Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems\n
   *Ziyuan Luo*, Boxin Shi, Haoliang Li, Renjie Wan\n
   In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
