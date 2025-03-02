@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{bio.jpg}{alt text}{160}{160}{}
-Ph.D. Student\n
+Ph.D. Candidate\n
 [https://www.comp.hkbu.edu.hk/v1/ Department of Computer Science]\n
 [https://www.hkbu.edu.hk/ Hong Kong Baptist University]\n
 Office: DLB 625, HKBU, Kowloon Tong, Hong Kong\n
@@ -24,6 +24,11 @@ My research interests include neural radiance fields, implicit neural representa
 
 == Recent Publications \<a id=\"publications\"\>\</a\>
 \* indicates equal contribution.
+- The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields\n
+  *Ziyuan Luo*, Anderson Rocha, Boxin Shi, Qing Guo, Haoliang Li, Renjie Wan\n
+  /IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*)/, 2025\n
+  [https://arxiv.org/abs/2502.19125 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/NeRF_Signature/ \[Code\]]
+
 - Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers\n
   Ruofei Wang, Hongzhan Lin, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan\n
   In /Association for the Advancement of Artificial Intelligence (*AAAI Oral*)/, Philadelphia, 2025\n
@@ -74,4 +79,4 @@ My research interests include neural radiance fields, implicit neural representa
 
 == Teaching \<a id=\"teaching\"\>\</a\>
 - COMP7035 (Teaching Assistant): Python for Data Analysis and Machine Intelligence, 2023/2024 S1, HKBU
-- COMP7930 (Teaching Assistant): Big Data Analytics, 2022/2023 S2, HKBU
+- COMP7930 (Teaching Assistant): Big Data Analytics, 2022/2023/2024 S2, HKBU
