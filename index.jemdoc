@@ -24,21 +24,6 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
 
 == Publications \<a id=\"publications\"\>\</a\>
 \* indicates equal contribution.
-- MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation\n
-  *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan\n
-  Preprint, 2025\n
-  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174611640.07897041 \[Paper\]]
-
-- Adversarially Robust Digital Watermarking via Data-Centric Optimization\n
-  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan\n
-  Preprint, 2025\n
-  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174803524.46553557 \[Paper\]]
-
-- Unified Steganography via Implicit Neural Representation\n
-  Qi Song, *Ziyuan Luo*, Xiufeng Huang, Sheng Li, Renjie Wan\n
-  Preprint, 2025\n
-  [https://arxiv.org/abs/2505.01749 \[Paper\]]
-
 - The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields\n
   *Ziyuan Luo*, Anderson Rocha, Boxin Shi, Qing Guo, Haoliang Li, Renjie Wan\n
   /IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*)/, 2025\n
@@ -78,6 +63,22 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
   *Ziyuan Luo* and Yong Deng\n
   /IEEE Transactions on Fuzzy Systems (*TFS*)/, 2020\n
   [https://ieeexplore.ieee.org/abstract/document/8767928 \[Paper\]]
+
+=== Preprints
+- MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation\n
+  *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan\n
+  Preprint, 2025\n
+  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174611640.07897041 \[Paper\]]
+
+- Adversarially Robust Digital Watermarking via Data-Centric Optimization\n
+  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan\n
+  Preprint, 2025\n
+  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174803524.46553557 \[Paper\]]
+
+- Unified Steganography via Implicit Neural Representation\n
+  Qi Song, *Ziyuan Luo*, Xiufeng Huang, Sheng Li, Renjie Wan\n
+  Preprint, 2025\n
+  [https://arxiv.org/abs/2505.01749 \[Paper\]]
 
 == Honors & Awards \<a id=\"honors&awards\"\>\</a\>
 - Yakun Scholarship Scheme, HKBU (2025)
