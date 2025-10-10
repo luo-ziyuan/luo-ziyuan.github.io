@@ -17,9 +17,7 @@ I am currently a Ph.D. candidate in the [https://www.comp.hkbu.edu.hk/v1/ Depart
 [https://www.hkbu.edu.hk/ Hong Kong Baptist University], supervised by [https://www.comp.hkbu.edu.hk/~renjiewan/ Dr. WAN, Renjie].
 I obtained my bachelor's degree and master's degree in Communication Engineering from
 the School of Information and Communication Engineering at [https://www.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)]
-in 2019 and 2022, respectively. Since September 2022, I have also been a research intern at NVIDIA AI Technology Center.\n
-
-My research interests include image\/3D watermarking, LLM\/RAG safety, and inverse scattering problems.
+in 2019 and 2022, respectively. \n
 
 
 == Publications \<a id=\"publications\"\>\</a\>
@@ -43,20 +41,10 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
   /IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*)/, 2025\n
   [https://arxiv.org/abs/2502.19125 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/NeRF_Signature/ \[Code\]]
 
-- Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers\n
-  Ruofei Wang, Hongzhan Lin, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan\n
-  In /Association for the Advancement of Artificial Intelligence (*AAAI Oral*)/, Philadelphia, 2025\n
-  [https://arxiv.org/abs/2412.15503 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/rfww/CMTMEME/ \[Code\]]
-
 - Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images\n
   Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
   In /Advances in Neural Information Processing Systems (*NeurIPS*)/, Vancouver, 2024\n
   [https://qsong2001.github.io/geometry_cloak/ \[Project Page\]]
-
-- Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems\n
-  *Ziyuan Luo*, Boxin Shi, Haoliang Li, Renjie Wan\n
-  In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
-  [https://arxiv.org/abs/2407.09352 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/Imaging-Interiors/ \[Project Page\]]
 
 - Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model\n
   Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
