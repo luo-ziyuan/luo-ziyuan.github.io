@@ -195,5 +195,19 @@ Preprint, 2025<br />
 </td>
 </tr>
 </table>
+<script>
+// Make all external links and PDF links open in new tab
+document.addEventListener('DOMContentLoaded', function() {
+    var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; i++) {
+        var href = links[i].getAttribute('href');
+        // Open external links and PDFs in new tab
+        if (href && (href.startsWith('http') || href.endsWith('.pdf'))) {
+            links[i].setAttribute('target', '_blank');
+            links[i].setAttribute('rel', 'noopener noreferrer');
+        }
+    }
+});
+</script>
 </body>
 </html>
