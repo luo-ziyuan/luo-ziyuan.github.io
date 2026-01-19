@@ -365,6 +365,12 @@ img {
     border: none;
 }
 
+table.imgtable img {
+    border-radius: 50%;
+    border: none;
+    object-fit: cover;
+}
+
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
