@@ -28,7 +28,7 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
 - GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning\n
   Haoliang Han, *Ziyuan Luo*, Renjie Wan\n
   In /International Conference on Machine Learning (*ICML*)/, 2026\n
-  [https://openreview.net/forum?id=h9g5j4JFv8 \[Paper\]]
+  [https://openreview.net/forum?id=h9g5j4JFv8 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://haolianghan.github.io/GaussTrace/ \[Code\]]
 
 - Creating Blank Canvas Against AI-enabled Image Forgery\n
   Qi Song, *Ziyuan Luo*, Renjie Wan\n
@@ -43,7 +43,7 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
 - MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation\n
   *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan\n
   /IEEE Transactions on Information Forensics and Security (*IEEE TIFS*)/, 2026\n
-  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174611640.07897041 \[Paper\]]
+  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174611640.07897041 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/MantleMark.git \[Code\]]
 
 - ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation\n
   *Ziyuan Luo*, Yangyi Zhao, Ka Chun Cheung, Simon See, Renjie Wan\n
