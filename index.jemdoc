@@ -25,6 +25,7 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
 
 == Publications \<a id=\"publications\"\>\</a\>
 \* indicates equal contribution.
+{{&dagger;}} indicates corresponding author.
 - GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning\n
   Haoliang Han, *Ziyuan Luo*, Renjie Wan\n
   In /International Conference on Machine Learning (*ICML*)/, 2026\n
@@ -44,6 +45,20 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
   *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan\n
   /IEEE Transactions on Information Forensics and Security (*IEEE TIFS*)/, 2026\n
   [https://ieeexplore.ieee.org/abstract/document/11263898 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/MantleMark.git \[Code\]]
+
+- Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer\n
+  Qi Song, *Ziyuan Luo*{{&dagger;}}, Haoliang Han, Renjie Wan\n
+  In /European Conference on Computer Vision (*ECCV*)/, Malmo, Sweden, 2026\n
+  [https://github.com/qsong2001/mvap-g \[Code\]]
+
+- From Noise to Events: Conditional Diffusion for Event Data Augmentation\n
+  Ruofei Wang, *Ziyuan Luo*, Peiqi Duan, Xiufeng Huang, Boxin Shi, Renjie Wan\n
+  In /European Conference on Computer Vision (*ECCV*)/, Malmo, Sweden, 2026\n
+
+- Adversarially Robust Multimedia Watermarking via Data-Centric Optimization\n
+  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan\n
+  /Pattern Recognition (*PR*)/, 2026\n
+  [https://www.sciencedirect.com/science/article/abs/pii/S0031320326010459 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/DART \[Code\]]
 
 - ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation\n
   *Ziyuan Luo*, Yangyi Zhao, Ka Chun Cheung, Simon See, Renjie Wan\n
@@ -106,11 +121,6 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
   [https://ieeexplore.ieee.org/abstract/document/8767928 \[Paper\]]
 
 *Preprints*
-- Adversarially Robust Digital Watermarking via Data-Centric Optimization\n
-  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan\n
-  Preprint, 2025\n
-  [https://www.techrxiv.org/doi/full/10.36227/techrxiv.174803524.46553557 \[Paper\]]
-
 - Unified Steganography via Implicit Neural Representation\n
   Qi Song, *Ziyuan Luo*, Xiufeng Huang, Sheng Li, Renjie Wan\n
   Preprint, 2025\n
