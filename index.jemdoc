@@ -24,103 +24,100 @@ My research interests include image\/3D watermarking, LLM\/RAG safety, and inver
 
 
 == Publications \<a id=\"publications\"\>\</a\>
-\* indicates equal contribution. {{&dagger;}} indicates corresponding author.
+\* indicates equal contribution. {{✉️}} indicates corresponding author.
 - Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer\n
-  Qi Song, *Ziyuan Luo*{{&dagger;}}, Haoliang Han, Renjie Wan\n
-  In /European Conference on Computer Vision (*ECCV*)/, Malmo, Sweden, 2026\n
+  Qi Song, *Ziyuan Luo*{{✉️}}, Haoliang Han, Renjie Wan\n
+  In /European Conference on Computer Vision (*ECCV*)/, Malmo, 2026\n
   [https://github.com/qsong2001/mvap-g \[Code\]]
 
 - From Noise to Events: Conditional Diffusion for Event Data Augmentation\n
-  Ruofei Wang, *Ziyuan Luo*, Peiqi Duan, Xiufeng Huang, Boxin Shi, Renjie Wan\n
-  In /European Conference on Computer Vision (*ECCV*)/, Malmo, Sweden, 2026\n
+  Ruofei Wang, *Ziyuan Luo*, Peiqi Duan, Xiufeng Huang, Boxin Shi, Renjie Wan{{✉️}}\n
+  In /European Conference on Computer Vision (*ECCV*)/, Malmo, 2026\n
 
 - Adversarially Robust Multimedia Watermarking via Data-Centric Optimization\n
-  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan\n
+  *Ziyuan Luo*, Qi Song, Haoliang Li, Anderson Rocha, Renjie Wan{{✉️}}\n
   /Pattern Recognition (*PR*)/, 2026\n
   [https://www.sciencedirect.com/science/article/abs/pii/S0031320326010459 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/DART \[Code\]]
 
 - GaussTrace: Provenance Analysis of 3D Gaussian Splatting Models with Evidence-based LLM Reasoning\n
-  Haoliang Han, *Ziyuan Luo*, Renjie Wan\n
+  Haoliang Han, *Ziyuan Luo*, Renjie Wan{{✉️}}\n
   In /International Conference on Machine Learning (*ICML*)/, 2026\n
   [https://openreview.net/forum?id=h9g5j4JFv8 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://haolianghan.github.io/GaussTrace/ \[Code\]]
 
 - Creating Blank Canvas Against AI-enabled Image Forgery\n
-  Qi Song, *Ziyuan Luo*, Renjie Wan\n
+  Qi Song, *Ziyuan Luo*, Renjie Wan{{✉️}}\n
   In /AAAI Conference on Artificial Intelligence (*AAAI*)/, Singapore, 2026\n
   [https://luo-ziyuan.github.io/ \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/qsong2001/blank_canvas/ \[Code\]]
 
 - GS-Checker: Tampering Localization for 3D Gaussian Splatting\n
-  Haoliang Han, *Ziyuan Luo*, Jun Qi, Anderson Rocha, Renjie Wan\n
+  Haoliang Han, *Ziyuan Luo*, Jun Qi, Anderson Rocha, Renjie Wan{{✉️}}\n
   In /AAAI Conference on Artificial Intelligence (*AAAI*)/, Singapore, 2026\n
   [https://arxiv.org/abs/2511.20354 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/haolianghan/GS-Checker/ \[Code\]]
 
 - MantleMark: Migrating Watermarks from Multi-View Images to Radiance Fields via Frequency Modulation\n
-  *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan\n
+  *Ziyuan Luo*, Jun Liu, Haoliang Li, Anderson Rocha, Renjie Wan{{✉️}}\n
   /IEEE Transactions on Information Forensics and Security (*IEEE TIFS*)/, 2026\n
   [https://ieeexplore.ieee.org/abstract/document/11263898 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/MantleMark.git \[Code\]]
 
 - ImageSentinel: Protecting Visual Datasets from Unauthorized Retrieval-Augmented Image Generation\n
-  *Ziyuan Luo*, Yangyi Zhao, Ka Chun Cheung, Simon See, Renjie Wan\n
+  *Ziyuan Luo*, Yangyi Zhao, Ka Chun Cheung, Simon See, Renjie Wan{{✉️}}\n
   In /Advances in Neural Information Processing Systems (*NeurIPS*)/, San Diego/Mexico City, 2025\n
   [https://arxiv.org/abs/2510.12119 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/ImageSentinel/ \[Code\]]\&nbsp;\&nbsp;\&nbsp;[./Posters/nips25_imagesentinel_poster.pdf \[Poster\]]
 
 - Align 3D Representation and Text Embedding for 3D Content Personalization\n
-  Qi Song\*, *Ziyuan Luo*\*, Ka Chun Cheung, Simon See, Renjie Wan\n
+  Qi Song\*, *Ziyuan Luo*\*, Ka Chun Cheung, Simon See, Renjie Wan{{✉️}}\n
   In /ACM Multimedia (*ACM MM*)/, Dublin, 2025\n
   [https://arxiv.org/abs/2508.16932 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/ \[Code\]]
 
 - MarkSplatter: Generalizable Watermarking for 3D Gaussian Splatting Model via Splatter Image Structure\n
-  Xiufeng Huang, *Ziyuan Luo*, Qi Song, Ruofei Wang, Renjie Wan\n
+  Xiufeng Huang, *Ziyuan Luo*, Qi Song, Ruofei Wang, Renjie Wan{{✉️}}\n
   In /ACM Multimedia (*ACM MM*)/, Dublin, 2025\n
   [https://arxiv.org/abs/2509.00757 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/ \[Code\]]
 
 - The NeRF Signature: Codebook-Aided Watermarking for Neural Radiance Fields\n
-  *Ziyuan Luo*, Anderson Rocha, Boxin Shi, Qing Guo, Haoliang Li, Renjie Wan\n
+  *Ziyuan Luo*, Anderson Rocha, Boxin Shi, Qing Guo, Haoliang Li, Renjie Wan{{✉️}}\n
   /IEEE Transactions on Pattern Analysis and Machine Intelligence (*IEEE TPAMI*)/, 2025\n
   [https://arxiv.org/abs/2502.19125 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/luo-ziyuan/NeRF_Signature/ \[Code\]]
 
 - Meme Trojan: Backdoor Attacks Against Hateful Meme Detection via Cross-Modal Triggers\n
-  Ruofei Wang, Hongzhan Lin, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan\n
+  Ruofei Wang, Hongzhan Lin, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Jing Ma, Renjie Wan{{✉️}}\n
   In /Association for the Advancement of Artificial Intelligence (*AAAI Oral*)/, Philadelphia, 2025 (CCF A)\n
   [https://arxiv.org/abs/2412.15503 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://github.com/rfww/cmtmeme \[Code\]]
 
 - Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images\n
-  Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
+  Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan{{✉️}}\n
   In /Advances in Neural Information Processing Systems (*NeurIPS*)/, Vancouver, 2024\n
   [https://arxiv.org/abs/2410.22705 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://qsong2001.github.io/geometry_cloak/ \[Project Page\]]
 
 - Imaging Interiors: An Implicit Solution to Electromagnetic Inverse Scattering Problems\n
-  *Ziyuan Luo*, Boxin Shi, Haoliang Li, Renjie Wan\n
+  *Ziyuan Luo*, Boxin Shi, Haoliang Li, Renjie Wan{{✉️}}\n
   In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
   [https://arxiv.org/abs/2407.09352 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/Imaging-Interiors/ \[Project Page\]]\&nbsp;\&nbsp;\&nbsp;[./Posters/eccv24_imaginginteriors_poster.pdf \[Poster\]]
 
 - Protecting NeRFs' Copyright via Plug-And-Play Watermarking Base Model\n
-  Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan\n
+  Qi Song, *Ziyuan Luo*, Ka Chun Cheung, Simon See, Renjie Wan{{✉️}}\n
   In /European Conference on Computer Vision (*ECCV*)/, Milan, 2024\n
   [https://arxiv.org/abs/2407.07735 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://qsong2001.github.io/NeRFProtector/ \[Project Page\]]
 
 - Scenedoor: An Environmental Backdoor Attack for Face Recognition\n
-  Ruofei Wang, *Ziyuan Luo*, Haoliang Li, Renjie Wan\n
+  Ruofei Wang, *Ziyuan Luo*, Haoliang Li, Renjie Wan{{✉️}}\n
   In /IEEE International Conference on Visual Communications and Image Processing (*VCIP*)/, Tokyo, 2024\n
   [https://ieeexplore.ieee.org/document/10849843 \[Paper\]]
 
 - CopyRNeRF: Protecting the CopyRight of Neural Radiance Fields\n
-  *Ziyuan Luo*, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan\n
+  *Ziyuan Luo*, Qing Guo, Ka Chun Cheung, Simon See, Renjie Wan{{✉️}}\n
   In /International Conference on Computer Vision (*ICCV*)/, Paris, 2023\n
   [https://arxiv.org/abs/2307.11526 \[Paper\]]\&nbsp;\&nbsp;\&nbsp;[https://luo-ziyuan.github.io/copyrnerf/ \[Project Page\]]\&nbsp;\&nbsp;\&nbsp;[./Posters/iccv23_copyrnerf_poster.pdf \[Poster\]]\&nbsp;\&nbsp;\&nbsp;[https://www.bilibili.com/video/BV1Qm421n7KW/?vd_source=55dd58d4363a6a6ba557db185032860b \[VALSE Video\]]\&nbsp;\&nbsp;\&nbsp;[https://huggingface.co/papers?date=2023-07-24 \[Hugging Face Daily Papers\]]
 
 - A Vector and Geometry Interpretation of Basic Probability Assignment in Dempster‐Shafer Theory\n
-  *Ziyuan Luo* and Yong Deng\n
+  *Ziyuan Luo* and Yong Deng{{✉️}}\n
   /International Journal of Intelligent Systems (*IJIS*)/, 2020\n
   [https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22231 \[Paper\]]
 
 - A Matrix Method of Basic Belief Assignment's Negation in Dempster-Shafer Theory\n
-  *Ziyuan Luo* and Yong Deng\n
+  *Ziyuan Luo* and Yong Deng{{✉️}}\n
   /IEEE Transactions on Fuzzy Systems (*IEEE TFS*)/, 2020\n
   [https://ieeexplore.ieee.org/abstract/document/8767928 \[Paper\]]
-
-*Preprints*
-
 == Honors & Awards \<a id=\"honors&awards\"\>\</a\>
 - [https://www.comp.hkbu.edu.hk/v1/?page=std_ach&id=250 RGC Junior Research Fellow Scheme (JRFS)], HKBU (2026)
 - Gold Reviewer Award, ICML (2026)
