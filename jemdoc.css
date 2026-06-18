@@ -107,6 +107,39 @@ body {
 	margin: 0;
 }
 
+.publication-legend {
+	display: inline-block;
+	color: var(--text-secondary);
+	font-size: 0.92em;
+	line-height: 1.25;
+	margin-bottom: 0.1em;
+}
+
+.legend-mark,
+.author-mark {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: var(--text-secondary);
+	font-weight: 600;
+}
+
+.legend-mark {
+	font-size: 0.95em;
+	margin: 0 0.08em;
+}
+
+.publication-legend .legend-mark:first-child {
+	margin-left: 0;
+}
+
+.author-mark {
+	position: relative;
+	top: -0.38em;
+	font-size: 0.74em;
+	line-height: 0;
+	margin-left: 0.08em;
+	margin-right: 0.02em;
+}
+
 #layout-menu {
 	background: var(--bg-surface);
 	border: 1px solid var(--border-soft);
